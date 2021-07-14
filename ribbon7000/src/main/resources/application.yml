@@ -1,0 +1,20 @@
+server:
+  port: 7000
+spring:
+  application:
+    name: ribbon7000
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+#请求处理的超时时间
+ribbon:
+  # 同一实例最大重试次数，不包括首次调用
+  MaxAutoRetries: 1
+  # 重试其他实例的最大重试次数，不包括首次所选的server
+  MaxAutoRetriesNextServer: 2
+  # 是否所有操作都重试
+  OkToRetryOnAllOperations: false
+  # 是否所有操作都进行重试
+  ReadTimeout: 10000
+  ConnectTimeout: 10000
