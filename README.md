@@ -1,4 +1,5 @@
 # clound
+nacos（服务注册，配置中心，服务总线）+gateway+ribbon+oauth2
 ## client7001，client7002
 服务client7001，基本的web服务
 ## gateway6000
