@@ -2,6 +2,7 @@
 nacos（服务注册，配置中心，服务总线）+gateway+ribbon+oauth2
 ## client7001，client7002
 服务client7001，基本的web服务
+client7001:集成elasticsearch，加入一些数据做中文匹配
 ## gateway6000
 网关服务，路由转发到8000端口进行认证或直接转发到7000端口跳过认证
 ## oauth8000
