@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/client7001/client7001.iml" filepath="$PROJECT_DIR$/client7001/client7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client7002/client7002.iml" filepath="$PROJECT_DIR$/client7002/client7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway6000/gateway6000.iml" filepath="$PROJECT_DIR$/gateway6000/gateway6000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth8000/oauth8000.iml" filepath="$PROJECT_DIR$/oauth8000/oauth8000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon7000/ribbon7000.iml" filepath="$PROJECT_DIR$/ribbon7000/ribbon7000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xuqi.iml" filepath="$PROJECT_DIR$/xuqi.iml" />
+    </modules>
+  </component>
+</project>
